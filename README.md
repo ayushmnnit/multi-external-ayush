@@ -1,3 +1,3 @@
-# TestSingleExternalHell2__external
+# TestSingleExternalHell__external
 
-TestSingleExternalHell2__external repository
+TestSingleExternalHell__external repository
