@@ -60,13 +60,32 @@
           "outputs" : [ ]
         },
         "lineage" : ""
+      },
+      "Script3" : {
+        "component" : "Script",
+        "properties" : {
+          "interim" : false,
+          "cache" : false,
+          "code" : "",
+          "lastSchemaUpdate" : ""
+        },
+        "metadata" : {
+          "label" : "Script3",
+          "x" : 410,
+          "y" : 50
+        },
+        "ports" : {
+          "inputs" : [ ],
+          "outputs" : [ ]
+        },
+        "lineage" : ""
       }
     },
     "connections" : [ ],
     "groups" : [ ],
     "locked" : false,
     "metainfo" : {
-      "lastUpdated" : 1629745816459,
+      "lastUpdated" : 1629746116074,
       "id" : "w1",
       "memory" : 1,
       "imported" : true,
