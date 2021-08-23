@@ -3,6 +3,7 @@
     "processes" : {
       "Script0" : {
         "component" : "Script",
+        "group" : null,
         "properties" : {
           "interim" : false,
           "cache" : false,
@@ -22,6 +23,7 @@
       },
       "Script1" : {
         "component" : "Script",
+        "group" : null,
         "properties" : {
           "interim" : false,
           "cache" : false,
@@ -41,6 +43,7 @@
       },
       "Script2" : {
         "component" : "Script",
+        "group" : null,
         "properties" : {
           "interim" : false,
           "cache" : false,
@@ -49,8 +52,8 @@
         },
         "metadata" : {
           "label" : "Script2",
-          "x" : 410,
-          "y" : 50
+          "x" : 775,
+          "y" : 98
         },
         "ports" : {
           "inputs" : [ ],
@@ -63,7 +66,7 @@
     "groups" : [ ],
     "locked" : false,
     "metainfo" : {
-      "lastUpdated" : 1629745652632,
+      "lastUpdated" : 1629745816459,
       "id" : "w1",
       "memory" : 1,
       "imported" : true,
