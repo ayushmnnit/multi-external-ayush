@@ -1,3 +1,1 @@
-# MultiExternalTestFinal__external
-
-MultiExternalTestFinal__external repository
+# multi-external-master
