@@ -1,3 +1,3 @@
-# TestMultiExternalVisa2__external
+# TestSingleExternalHell__external
 
-TestMultiExternalVisa2__external repository
+TestSingleExternalHell__external repository
