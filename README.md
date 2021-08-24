@@ -1,3 +1,1 @@
-# TestSingleExternalHell__external
-
-TestSingleExternalHell__external repository
+# multi-external-ayush

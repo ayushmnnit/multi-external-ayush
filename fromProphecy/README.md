@@ -1,3 +1,0 @@
-# ExternalLinkingTest
-
-ExternalLinkingTest repository
